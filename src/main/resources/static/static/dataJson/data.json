@@ -1,0 +1,26 @@
+[{
+  "productName": "Juicy-Ski-mask",
+  "price": 450,
+  "image_url": "/Users/luliyamasfun/PROJECTS/workspace/block-juice-shopping-webbsite/src/main/resources/static/static/images/productimage.jpeg"
+}, {
+  "productName": "Juicy-Shorts",
+  "price": 500,
+  "image_url": "/Users/luliyamasfun/PROJECTS/workspace/block-juice-shopping-webbsite/src/main/resources/static/static/images/productimage.jpeg"
+}, {
+  "productName": "Juicy-T-shirt",
+  "price": 300,
+  "image_url": "/Users/luliyamasfun/PROJECTS/workspace/block-juice-shopping-webbsite/src/main/resources/static/static/images/productimage.jpeg"
+}, {
+  "productName": "Juicy-Hoodie",
+  "price": 500,
+  "image_url": "/Users/luliyamasfun/PROJECTS/workspace/block-juice-shopping-webbsite/src/main/resources/static/static/images/productimage.jpeg"
+  }, {
+  "productName": "Juicy-Baseball-Jersey",
+  "price": 600,
+  "image_url": "/Users/luliyamasfun/PROJECTS/workspace/block-juice-shopping-webbsite/src/main/resources/static/static/images/productimage.jpeg"
+  }, {
+  "productName": "Juicy-Slippers",
+  "price": 450,
+  "image_url": "/Users/luliyamasfun/PROJECTS/workspace/block-juice-shopping-webbsite/src/main/resources/static/static/images/productimage.jpeg"
+  }
+]
